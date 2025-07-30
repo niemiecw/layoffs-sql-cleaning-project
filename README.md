@@ -29,7 +29,7 @@ Sample data includes:
 ## ⚙️ Tools & Technologies
 
 - SQL (MySQL)
-- Workbench (
+- Workbench 
 
 ---
 
@@ -44,11 +44,7 @@ Sample data includes:
 
 ---
 
-## 🖼️ Before & After
 
-### ✅ Final Cleaned Table Preview:
-cleaned_table.png
----
 
 ## 📄 File Structure
 
