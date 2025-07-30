@@ -28,9 +28,8 @@ Sample data includes:
 
 ## ⚙️ Tools & Technologies
 
-- SQL (MySQL 8+)
-- Workbench (or any SQL IDE)
-- Optional: Git, GitHub for version control
+- SQL (MySQL)
+- Workbench (
 
 ---
 
@@ -48,8 +47,7 @@ Sample data includes:
 ## 🖼️ Before & After
 
 ### ✅ Final Cleaned Table Preview:
-![Final Table Screenshot](screenshots/cleaned_table.png)
-
+cleaned_table.png
 ---
 
 ## 📄 File Structure
